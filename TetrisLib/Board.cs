@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace TetrisLib
 {
-    class Board
+    public class Board
     {
         int rows, columns;
         Figure figure;

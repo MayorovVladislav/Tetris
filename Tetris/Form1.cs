@@ -14,7 +14,6 @@ namespace Tetris
 {
     public partial class Form1 : Form
     {
-        TetrisLib.Class1
         Board b;
         Label[,] block;
         int lvl = 1;

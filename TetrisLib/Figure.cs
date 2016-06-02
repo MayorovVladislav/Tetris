@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TetrisLib
 {
-    class Figure
+    public class Figure
     {
         Point currentPosition;
         Point[] currentShape;
